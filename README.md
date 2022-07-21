@@ -3,8 +3,8 @@ OII!! Eu sou Flavio Costa! Iniciante na área de TI.
 - 🌱 Estudando JavaScript
 
 <div align="center">
-<img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=FlaviooC&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviooC&theme=dracula&hide_border=false&&layout=compact"/>
+<img height="150em" width="160" src="https://github-readme-stats.vercel.app/api?username=FlaviooC&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviooC&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
   
