@@ -1,4 +1,4 @@
-OII!! Eu sou Flavio Costa! Iniciante na área de TI.
+Olá! Eu sou Flavio Costa👋
 
 - 🌱 Estudando HTML E CSS
 
