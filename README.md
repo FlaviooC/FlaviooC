@@ -1,6 +1,6 @@
 Olá! Eu sou Flavio Costa👋
 
-- 🌱 Estudando HTML E CSS
+- 🌱 Estudando Desenvolvimento de Software
 
 <div align="center">
 <img height="150em"src="https://github-readme-stats.vercel.app/api?username=FlaviooC&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
